@@ -1,0 +1,28 @@
+div{
+   height: 60px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: black;
+    padding: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    opacity: 0.5;
+    
+}
+body{
+
+    background-image: url(./ima.png);
+    background-size: cover;
+    background-position: center;
+    
+
+}
+#two,h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    bottom: 78px;
+    color: white;
+}
+
+
+
+
